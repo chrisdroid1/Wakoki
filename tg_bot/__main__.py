@@ -28,9 +28,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 
-Hello    {}, My Name Is {} !
+Hello 
 
-I Am A Alexa Group Manager Bot Maintained By [This Person](tg://user?id={}).
+I Am A Wakoki Group Manager Bot Maintained By [Here](https://t.me/CreminalUBot)
 
 I am a group management bot With Advanced Features.
 
@@ -42,8 +42,8 @@ Hit This --> /help To See my available commands.
 
 
 
--> [Support Group](https://t.me/AlexasupportGroup)
--> [Support channel](https://t.me/Alexasupportchannel)
+-> [Support Group](https://t.me/CreminalUBotSupport)
+-> [Support channel](https://t.meCreminalUBot)
  
 
 
@@ -52,7 +52,7 @@ Hit This --> /help To See my available commands.
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name *Wakoki*.
 
 *Main* commands available:
  - /start: start the bot

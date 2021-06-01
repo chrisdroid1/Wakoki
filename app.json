@@ -42,7 +42,7 @@
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "988452336"
+         "value": "1673194447"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -76,17 +76,17 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "988452336"
+         "value": "1673194447"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "988452336"
+         "value": "1673194447"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "988452336"
+         "value": "1673194447"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -106,7 +106,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "988452336"
+         "value": "1673194447"
       }
    },
    "keywords": [
@@ -115,7 +115,7 @@
       "manager",
       "bot"
    ],
-   "logo": "https://telegra.ph/file/a5ec644be1e5ff9ac991c.jpg",
-   "name": "Alexa",
-   "repository": "https://github.com/shubhanshdj/AlexaRobot"
+   "logo": "https://telegra.ph/file/3d58c5afeadcbccf86e9c.jpg",
+   "name": "Wakoki ",
+   "repository": "https://github.com/chrisdroid1/Wakoki"
 }
